@@ -1,0 +1,235 @@
+{
+  "processo": {
+    "status": {
+      "chaves": [
+        {
+          "chave": "NAME",
+          "valor": "mysqld"
+        },
+        {
+          "chave": "UMASK",
+          "valor": "0026"
+        },
+        {
+          "chave": "STATE",
+          "valor": "S (sleeping)"
+        },
+        {
+          "chave": "TGID",
+          "valor": "25750"
+        },
+        {
+          "chave": "NGID",
+          "valor": "0"
+        },
+        {
+          "chave": "PID",
+          "valor": "25750"
+        },
+        {
+          "chave": "PPID",
+          "valor": "1"
+        },
+        {
+          "chave": "TRACERPID",
+          "valor": "0"
+        },
+        {
+          "chave": "UID",
+          "valor": "110\t110\t110\t110"
+        },
+        {
+          "chave": "GID",
+          "valor": "115\t115\t115\t115"
+        },
+        {
+          "chave": "FDSIZE",
+          "valor": "64"
+        },
+        {
+          "chave": "GROUPS",
+          "valor": "115"
+        },
+        {
+          "chave": "NSTGID",
+          "valor": "25750"
+        },
+        {
+          "chave": "NSPID",
+          "valor": "25750"
+        },
+        {
+          "chave": "NSPGID",
+          "valor": "25749"
+        },
+        {
+          "chave": "NSSID",
+          "valor": "25749"
+        },
+        {
+          "chave": "ENVID",
+          "valor": "04c9237e-a0ca-41ad-9e90-f2b656b61a52"
+        },
+        {
+          "chave": "VPID",
+          "valor": "25750"
+        },
+        {
+          "chave": "VMPEAK",
+          "valor": "1219412 kB"
+        },
+        {
+          "chave": "VMSIZE",
+          "valor": "1162272 kB"
+        },
+        {
+          "chave": "VMLCK",
+          "valor": "0 kB"
+        },
+        {
+          "chave": "VMPIN",
+          "valor": "0 kB"
+        },
+        {
+          "chave": "VMHWM",
+          "valor": "172108 kB"
+        },
+        {
+          "chave": "VMRSS",
+          "valor": "29488 kB"
+        },
+        {
+          "chave": "RSSANON",
+          "valor": "28040 kB"
+        },
+        {
+          "chave": "RSSFILE",
+          "valor": "1448 kB"
+        },
+        {
+          "chave": "RSSSHMEM",
+          "valor": "0 kB"
+        },
+        {
+          "chave": "VMDATA",
+          "valor": "1087292 kB"
+        },
+        {
+          "chave": "VMSTK",
+          "valor": "132 kB"
+        },
+        {
+          "chave": "VMEXE",
+          "valor": "22492 kB"
+        },
+        {
+          "chave": "VMLIB",
+          "valor": "9228 kB"
+        },
+        {
+          "chave": "VMPTE",
+          "valor": "636 kB"
+        },
+        {
+          "chave": "VMSWAP",
+          "valor": "138396 kB"
+        },
+        {
+          "chave": "THREADS",
+          "valor": "28"
+        },
+        {
+          "chave": "SIGQ",
+          "valor": "0/450354"
+        },
+        {
+          "chave": "SIGPND",
+          "valor": "0000000000000000"
+        },
+        {
+          "chave": "SHDPND",
+          "valor": "0000000000000000"
+        },
+        {
+          "chave": "SIGBLK",
+          "valor": "0000000000084007"
+        },
+        {
+          "chave": "SIGIGN",
+          "valor": "0000000000003000"
+        },
+        {
+          "chave": "SIGCGT",
+          "valor": "00000001800006e8"
+        },
+        {
+          "chave": "SIGSVD",
+          "valor": "0000000000000000"
+        },
+        {
+          "chave": "CAPINH",
+          "valor": "0000000000000000"
+        },
+        {
+          "chave": "CAPPRM",
+          "valor": "0000000000000000"
+        },
+        {
+          "chave": "CAPEFF",
+          "valor": "0000000000000000"
+        },
+        {
+          "chave": "CAPBND",
+          "valor": "0000001fffffffff"
+        },
+        {
+          "chave": "CAPAMB",
+          "valor": "0000000000000000"
+        },
+        {
+          "chave": "SECCOMP",
+          "valor": "0"
+        },
+        {
+          "chave": "SPECULATION_STORE_BYPASS",
+          "valor": "thread vulnerable"
+        },
+        {
+          "chave": "CPUS_ALLOWED",
+          "valor": "ffffff"
+        },
+        {
+          "chave": "CPUS_ALLOWED_LIST",
+          "valor": "0-23"
+        },
+        {
+          "chave": "MEMS_ALLOWED",
+          "valor": "00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000003"
+        },
+        {
+          "chave": "MEMS_ALLOWED_LIST",
+          "valor": "0-1"
+        },
+        {
+          "chave": "VOLUNTARY_CTXT_SWITCHES",
+          "valor": "4108"
+        },
+        {
+          "chave": "NONVOLUNTARY_CTXT_SWITCHES",
+          "valor": "57"
+        },
+        {
+          "chave": "TASKUB",
+          "valor": "04c9237e-a0ca-41ad-9e90-f2b656b61a52"
+        },
+        {
+          "chave": "MMUB",
+          "valor": "04c9237e-a0ca-41ad-9e90-f2b656b61a52"
+        }
+      ]
+    },
+    "command": {
+      "command": "mysqld"
+    }
+  }
+}
